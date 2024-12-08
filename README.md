@@ -31,9 +31,7 @@ Here’s what you’ll find in this repository:
 ## 📊 Why Pandas?  
 Pandas is essential for anyone working in **data science**, **AI/ML**, or **data analytics**. With its intuitive syntax and powerful features, it simplifies working with structured data, making it easier to preprocess and analyze large datasets efficiently.  
 
-## 🔗 Resources I’m Using  
-- **Books:** *Python for Data Analysis* by Wes McKinney  
-- **Courses:** [Data Analysis with Pandas on Kaggle](https://www.kaggle.com/learn/pandas)  
+## 🔗 Resources I’m Using    
 - **Documentation:** [Official Pandas Documentation](https://pandas.pydata.org/)  
 
 ## 🌟 Future Plans  

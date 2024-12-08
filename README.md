@@ -32,6 +32,7 @@ Here’s what you’ll find in this repository:
 Pandas is essential for anyone working in **data science**, **AI/ML**, or **data analytics**. With its intuitive syntax and powerful features, it simplifies working with structured data, making it easier to preprocess and analyze large datasets efficiently.  
 
 ## 🔗 Resources I’m Using    
+- **Youtube Lecture:** [The Complete Pandas Course for Data Science](https://youtube.com/playlist?list=PLFAYD0dt5xCxdKfIR3ZX3k07qrqEjUZSO&si=JU_u1Ipd26qBqNcp)
 - **Documentation:** [Official Pandas Documentation](https://pandas.pydata.org/)  
 
 ## 🌟 Future Plans  

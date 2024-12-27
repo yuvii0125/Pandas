@@ -1,0 +1,31 @@
+[
+  {
+      "id": 1,
+      "name": "Alice Johnson",
+      "age": 29,
+      "department": "Engineering",
+      "email": "alice.johnson@example.com",
+      "skills": "Python, JavaScript, C++",
+      "is_full_time": true
+  },
+  {
+      "id": 2,
+      "name": "Bob Smith",
+      "age": 35,
+      "department": "Human Resources",
+      "email": "bob.smith@example.com",
+      "skills": "Communication, Recruitment, Conflict Resolution",
+      "is_full_time": true
+  },
+  {
+      "id": 3,
+      "name": "Charlie Brown",
+      "age": 24,
+      "department": "Marketing",
+      "email": "charlie.brown@example.com",
+      "skills": "SEO, Content Creation, Social Media Management",
+      "is_full_time": false
+  }
+]
+
+  
